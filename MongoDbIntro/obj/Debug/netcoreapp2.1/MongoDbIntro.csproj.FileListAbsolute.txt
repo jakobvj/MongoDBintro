@@ -1,0 +1,14 @@
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\bin\Debug\netcoreapp2.1\MongoDbIntro.deps.json
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\bin\Debug\netcoreapp2.1\MongoDbIntro.runtimeconfig.json
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\bin\Debug\netcoreapp2.1\MongoDbIntro.runtimeconfig.dev.json
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\bin\Debug\netcoreapp2.1\MongoDbIntro.dll
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\bin\Debug\netcoreapp2.1\MongoDbIntro.pdb
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\bin\Debug\netcoreapp2.1\MongoDbIntro.Core.dll
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\bin\Debug\netcoreapp2.1\MongoDbIntro.Core.pdb
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\obj\Debug\netcoreapp2.1\MongoDbIntro.csprojAssemblyReference.cache
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\obj\Debug\netcoreapp2.1\MongoDbIntro.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\obj\Debug\netcoreapp2.1\MongoDbIntro.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\obj\Debug\netcoreapp2.1\MongoDbIntro.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\obj\Debug\netcoreapp2.1\MongoDbIntro.csproj.CopyComplete
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\obj\Debug\netcoreapp2.1\MongoDbIntro.dll
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro\obj\Debug\netcoreapp2.1\MongoDbIntro.pdb

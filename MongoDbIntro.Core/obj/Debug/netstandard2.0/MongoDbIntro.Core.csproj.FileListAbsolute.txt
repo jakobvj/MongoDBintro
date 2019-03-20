@@ -1,0 +1,9 @@
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\bin\Debug\netstandard2.0\MongoDbIntro.Core.deps.json
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\bin\Debug\netstandard2.0\MongoDbIntro.Core.dll
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\obj\Debug\netstandard2.0\MongoDbIntro.Core.csprojAssemblyReference.cache
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\obj\Debug\netstandard2.0\MongoDbIntro.Core.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\obj\Debug\netstandard2.0\MongoDbIntro.Core.AssemblyInfoInputs.cache
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\obj\Debug\netstandard2.0\MongoDbIntro.Core.AssemblyInfo.cs
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\bin\Debug\netstandard2.0\MongoDbIntro.Core.pdb
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\obj\Debug\netstandard2.0\MongoDbIntro.Core.dll
+C:\Users\Bruger\source\repos\MongoDbIntro\MongoDbIntro.Core\obj\Debug\netstandard2.0\MongoDbIntro.Core.pdb
