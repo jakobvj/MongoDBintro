@@ -10,11 +10,11 @@ namespace MongoDbIntro
 {
     class Program
     {
-        const string DATABASENAVN = "udvikler";
-        const string COLLECTIONNAVN = "udviklere";
+        const string DATABASENAVN = "";
+        const string COLLECTIONNAVN = "";
         const string DATABASEUSERNAME = "";
         const string DATABASEPASSWORD = "";
-        const string CONNECTIONSSTRING = "mongodb+srv://" + DATABASEUSERNAME + ":" + DATABASEPASSWORD + "@cluster0-4cruw.mongodb.net/test?retryWrites=true";
+        const string CONNECTIONSSTRING = "";
         static void Main(string[] args)
         {
 
